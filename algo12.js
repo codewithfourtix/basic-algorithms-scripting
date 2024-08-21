@@ -20,5 +20,5 @@ function longestConsecutive(nums) {
   return longestStreak;
 }
 
-// Example usage:
+// Example usage
 console.log(longestConsecutive([100, 4, 200, 1, 3, 2])); // Output: 4

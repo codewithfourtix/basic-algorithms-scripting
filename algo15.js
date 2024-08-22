@@ -18,4 +18,3 @@ const numbers = [1, 2, 3, 2, 4, 3, 5, 1, 6];
 const uniqueNumbers = removeDuplicates(numbers);
 
 console.log(`Array with duplicates removed: [${uniqueNumbers}]`);
-// Expected output: Array with duplicates removed: [1, 2, 3, 4, 5, 6]

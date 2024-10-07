@@ -37,7 +37,7 @@ function generateSpiralMatrix(n) {
   return matrix;
 }
 
-// Example usage
+// Example
 const size = 4;
 const spiralMatrix = generateSpiralMatrix(size);
 console.log(spiralMatrix);

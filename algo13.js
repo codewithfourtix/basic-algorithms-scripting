@@ -1,4 +1,4 @@
-// Problem: Given a string s and a string p, return an array of all the start indices of p's anagrams in s.
+// Problem: Given a string s and a string p, return an array of all the start indices of p's anagrams in s
 function findAnagrams(s, p) {
   const result = [];
   const pCount = Array(26).fill(0);

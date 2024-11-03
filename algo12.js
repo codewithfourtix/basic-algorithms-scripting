@@ -1,4 +1,4 @@
-// Problem: Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
+// Problem: Given an unsorted array of integers, find the length of the longest consecutive elements sequence
 function longestConsecutive(nums) {
   const numSet = new Set(nums);
   let longestStreak = 0;

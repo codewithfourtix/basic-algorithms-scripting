@@ -1,5 +1,4 @@
 function removeDuplicates(arr) {
-  // Initialize an empty array 
   let uniqueArr = [];
 
   // Iterate through the input array

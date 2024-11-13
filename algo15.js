@@ -12,7 +12,7 @@ function removeDuplicates(arr) {
   return uniqueArr;
 }
 
-// Example usage:
+// Example
 const numbers = [1, 2, 3, 2, 4, 3, 5, 1, 6];
 const uniqueNumbers = removeDuplicates(numbers);
 
